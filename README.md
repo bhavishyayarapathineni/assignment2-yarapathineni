@@ -51,7 +51,49 @@ I would like recommond the following Activities which I like most are Cycling, S
 ---
 
 # Pithy quotes
-> 1. Even if we don't have the power to choose where we come from, we can still choose where we go from there.
+> 1. Eve n if we don't have the power to choose where we come from, we can still choose where we go from there.
 Author: *Stephen Chbosky*
 > 2. But I am very poorly today & very stupid & I hate everybody & everything. One lives only to make blunders.
 Author: *Charles Darwin*
+
+---
+
+# Algebra
+###### Algebra from another source code
+> Algebra (from Arabic: الجبر, romanized: al-jabr, lit.'reunion of broken parts, bonesetting') is one of the broad areas of mathematics. Roughly speaking, algebra is the study of mathematical symbols and the rules for manipulating these symbols; it is a unifying thread of almost all of mathematics.
+To know more about algebra click here <https://en.wikipedia.org/wiki/Algebra>
+
+#### Algebra from CP- Algorithms
+* Fundamentals
+    * Binary Exponentiation
+    * Euclidean algorithm for computing the greatest common divisor
+    * Extended Euclidean Algorithm
+    * Linear Diophantine Equations
+    * Fibonacci Numbers
+* Prime numbers
+    * Sieve of Eratosthenes
+    * Linear Sieve
+    * Primality tests
+    * Integer factorization
+* Number-theoretic functions
+    * Euler's totient function
+    * Number of divisors / sum of divisors
+* Modular arithmetic
+    * Modular Inverse
+    * Linear Congruence Equation
+    * Chinese Remainder Theorem
+    * Factorial modulo 
+    * Discrete Log
+    * Primitive Root
+    * Discrete Root
+    * Montgomery Multiplication
+* Number systems
+    * Balanced Ternary
+    * Gray code
+* Miscellaneous
+    * Enumerating submasks of a bitmask
+    * Arbitrary-Precision Arithmetic
+    * Fast Fourier transform
+    * Operations on polynomials and series
+
+Quick link <https://cp-algorithms.com/>

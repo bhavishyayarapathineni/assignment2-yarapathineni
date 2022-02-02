@@ -36,3 +36,14 @@ The food items that i recommend to others are
     * Pasta dosa
 
 [Know more about me](https://github.com/bhavishyayarapathineni/assignment2-yarapathineni/blob/main/AboutMe.md)
+
+---
+
+# Activities
+I would like recommond the following Activities which I like most are Cycling, Singing, Dancing, Running.
+| Activity   |  Location  | Payable Amount |
+| ---------- | ---------- | -------------- |
+| Cycling    | Chittoor   |   $20          |
+| Singing    | Guntur     |   $35          |
+| Dancing    | Nellore    |   $15          |
+| Running    | Ongole     |   $20          |

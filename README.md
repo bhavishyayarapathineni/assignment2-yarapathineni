@@ -64,36 +64,15 @@ Author: *Charles Darwin*
 To know more about algebra click here <https://en.wikipedia.org/wiki/Algebra>
 
 #### Algebra from CP- Algorithms
-* Fundamentals
-    * Binary Exponentiation
-    * Euclidean algorithm for computing the greatest common divisor
-    * Extended Euclidean Algorithm
-    * Linear Diophantine Equations
-    * Fibonacci Numbers
-* Prime numbers
-    * Sieve of Eratosthenes
-    * Linear Sieve
-    * Primality tests
-    * Integer factorization
-* Number-theoretic functions
-    * Euler's totient function
-    * Number of divisors / sum of divisors
-* Modular arithmetic
-    * Modular Inverse
-    * Linear Congruence Equation
-    * Chinese Remainder Theorem
-    * Factorial modulo 
-    * Discrete Log
-    * Primitive Root
-    * Discrete Root
-    * Montgomery Multiplication
-* Number systems
-    * Balanced Ternary
-    * Gray code
-* Miscellaneous
-    * Enumerating submasks of a bitmask
-    * Arbitrary-Precision Arithmetic
-    * Fast Fourier transform
-    * Operations on polynomials and series
-
-Quick link <https://cp-algorithms.com/>
+```
+long long binpow(long long a, long long b) {
+    if (b == 0)
+        return 1;
+    long long res = binpow(a, b / 2);
+    if (b % 2)
+        return res * res * a;
+    else
+        return res * res;
+}
+```
+Quick link <https://cp-algorithms.com/algebra/binary-exp.html>

@@ -47,3 +47,11 @@ I would like recommond the following Activities which I like most are Cycling, S
 | Singing    | Guntur     |   $35          |
 | Dancing    | Nellore    |   $15          |
 | Running    | Ongole     |   $20          |
+
+---
+
+# Pithy quotes
+> 1. Even if we don't have the power to choose where we come from, we can still choose where we go from there.
+Author: *Stephen Chbosky*
+> 2. But I am very poorly today & very stupid & I hate everybody & everything. One lives only to make blunders.
+Author: *Charles Darwin*

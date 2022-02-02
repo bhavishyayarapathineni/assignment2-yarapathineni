@@ -35,4 +35,3 @@ The food items that i recommend to others are
     * Cheese dosa
     * Pasta dosa
 
-[Know more about me](https://github.com/bhavishyayarapathineni/assignment2-yarapathineni/blob/main/AboutMe.md)
